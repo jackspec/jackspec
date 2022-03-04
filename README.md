@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jackspec
+- 👀 I’m interested in java,python etc.
+- 🌱 I’m currently learning vue
+- 📫 How to reach me jack jin @ youtube
